@@ -1,0 +1,19 @@
+body {
+background-color: #e3e3e3;
+font-family: sans-serif
+}
+
+.container {
+    margin: auto;
+    width : 500px;
+}
+
+.quote {
+      border: 1px solid white;
+      text-align: center;
+    
+}
+
+.mt10{
+	margin-top: 10px;
+}
